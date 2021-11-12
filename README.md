@@ -1,6 +1,4 @@
-# Weather App v2
-
-This project is a rewrite of Danny Connell's "Quasar V1: Weather App for Mobile, Desktop & Web (Vue JS 2)" application he built for his [Udemy course](https://www.udemy.com/course/weather-app-vue-js-quasar) of the same name.
+# JuSoft weather
 
 ## Install the dependencies
 
